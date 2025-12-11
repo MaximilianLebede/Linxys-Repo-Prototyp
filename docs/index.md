@@ -1,2 +1,2 @@
 # Knowledge Base
-[Testfile](Test File.md)
+[Testfile](testfile.md)
